@@ -29,7 +29,7 @@ Welcome to the **unsupervisedLearning** repository! This repository contains pra
 - **a. Implementation on MNIST, Fashion MNIST, and CIFAR10:** `variational_autoencoder.ipynb`
 - **b. Results Comparison:** `vae_comparison.ipynb`
 
-## 8. 
+## 8. Autoencoder Implementation Fashion(Myntra dataset)
 Feel free to explore each practical's notebook for detailed implementations and comparisons. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Happy learning!
